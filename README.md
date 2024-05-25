@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ehmahm
-- 👀 I’m interested in ...coding,arsenal,anime
+- 👀 I’m interested in ...coding,arsenal,anime,memes
 - 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...python 
 - 📫 How to reach me ...*******
