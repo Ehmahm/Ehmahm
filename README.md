@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ehmahm
 - 👀 I’m interested in ...coding,arsenal,anime,memes
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...python 
+- 💞️ I’m looking to collaborate on ...python, java script,html,css,R
 - 📫 How to reach me ...*******
-- 😄 Pronouns: ...pyt or thon
+- 😄 Pronouns: ...code
 - ⚡ Fun fact: ...lucid
 
 <!---
