@@ -5,6 +5,7 @@
 - 📫 How to reach me ...*******
 - 😄 Pronouns: ...code
 - ⚡ Fun fact: ...lucid
+- https://github-readme-streak-stats.herokuapp.com/?user=Ehmahm)](https://git.io/streak-stats)
 
 <!---
 Ehmahm/Ehmahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
