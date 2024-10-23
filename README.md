@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...code
 - ⚡ Fun fact: ...lucid
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ehmahm&theme=dark&hide_border=true&card_width=450&card_height=170)](https://git.io/streak-stats)
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+<img src="{https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white}"/>
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
